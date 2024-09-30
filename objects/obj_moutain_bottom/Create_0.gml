@@ -1,0 +1,1 @@
+hspeed = -4 - (global.level * 0.1);
